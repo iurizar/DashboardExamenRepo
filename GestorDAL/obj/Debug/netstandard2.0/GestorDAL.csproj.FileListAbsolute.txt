@@ -1,0 +1,16 @@
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\bin\Debug\netstandard2.0\GestorDAL.deps.json
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\bin\Debug\netstandard2.0\GestorDAL.dll
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\bin\Debug\netstandard2.0\GestorDAL.pdb
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\bin\Debug\netstandard2.0\ComercialVO.dll
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\bin\Debug\netstandard2.0\VentasVO.dll
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\bin\Debug\netstandard2.0\ComercialVO.pdb
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\bin\Debug\netstandard2.0\VentasVO.pdb
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\obj\Debug\netstandard2.0\GestorDAL.csprojAssemblyReference.cache
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\obj\Debug\netstandard2.0\GestorDAL.AssemblyInfoInputs.cache
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\obj\Debug\netstandard2.0\GestorDAL.AssemblyInfo.cs
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\obj\Debug\netstandard2.0\GestorDAL.csproj.CoreCompileInputs.cache
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\obj\Debug\netstandard2.0\GestorDAL.csproj.CopyComplete
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\obj\Debug\netstandard2.0\GestorDAL.dll
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\obj\Debug\netstandard2.0\GestorDAL.pdb
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\bin\Debug\netstandard2.0\EmpleadoVO.dll
+C:\Users\iuriz\source\repos\DashboardExamen\GestorDAL\bin\Debug\netstandard2.0\EmpleadoVO.pdb

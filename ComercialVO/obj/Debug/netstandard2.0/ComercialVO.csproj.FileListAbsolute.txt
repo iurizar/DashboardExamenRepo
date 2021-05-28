@@ -1,0 +1,12 @@
+C:\Users\iuriz\source\repos\DashboardExamen\ComercialVO\bin\Debug\netstandard2.0\ComercialVO.deps.json
+C:\Users\iuriz\source\repos\DashboardExamen\ComercialVO\bin\Debug\netstandard2.0\ComercialVO.dll
+C:\Users\iuriz\source\repos\DashboardExamen\ComercialVO\bin\Debug\netstandard2.0\ComercialVO.pdb
+C:\Users\iuriz\source\repos\DashboardExamen\ComercialVO\bin\Debug\netstandard2.0\VentasVO.dll
+C:\Users\iuriz\source\repos\DashboardExamen\ComercialVO\bin\Debug\netstandard2.0\VentasVO.pdb
+C:\Users\iuriz\source\repos\DashboardExamen\ComercialVO\obj\Debug\netstandard2.0\ComercialVO.csprojAssemblyReference.cache
+C:\Users\iuriz\source\repos\DashboardExamen\ComercialVO\obj\Debug\netstandard2.0\ComercialVO.AssemblyInfoInputs.cache
+C:\Users\iuriz\source\repos\DashboardExamen\ComercialVO\obj\Debug\netstandard2.0\ComercialVO.AssemblyInfo.cs
+C:\Users\iuriz\source\repos\DashboardExamen\ComercialVO\obj\Debug\netstandard2.0\ComercialVO.csproj.CoreCompileInputs.cache
+C:\Users\iuriz\source\repos\DashboardExamen\ComercialVO\obj\Debug\netstandard2.0\ComercialVO.csproj.CopyComplete
+C:\Users\iuriz\source\repos\DashboardExamen\ComercialVO\obj\Debug\netstandard2.0\ComercialVO.dll
+C:\Users\iuriz\source\repos\DashboardExamen\ComercialVO\obj\Debug\netstandard2.0\ComercialVO.pdb

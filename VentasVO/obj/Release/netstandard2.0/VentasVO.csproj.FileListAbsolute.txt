@@ -1,0 +1,8 @@
+C:\Users\iuriz\source\repos\DashboardExamen\VentasVO\bin\Release\netstandard2.0\VentasVO.deps.json
+C:\Users\iuriz\source\repos\DashboardExamen\VentasVO\bin\Release\netstandard2.0\VentasVO.dll
+C:\Users\iuriz\source\repos\DashboardExamen\VentasVO\bin\Release\netstandard2.0\VentasVO.pdb
+C:\Users\iuriz\source\repos\DashboardExamen\VentasVO\obj\Release\netstandard2.0\VentasVO.AssemblyInfoInputs.cache
+C:\Users\iuriz\source\repos\DashboardExamen\VentasVO\obj\Release\netstandard2.0\VentasVO.AssemblyInfo.cs
+C:\Users\iuriz\source\repos\DashboardExamen\VentasVO\obj\Release\netstandard2.0\VentasVO.csproj.CoreCompileInputs.cache
+C:\Users\iuriz\source\repos\DashboardExamen\VentasVO\obj\Release\netstandard2.0\VentasVO.dll
+C:\Users\iuriz\source\repos\DashboardExamen\VentasVO\obj\Release\netstandard2.0\VentasVO.pdb

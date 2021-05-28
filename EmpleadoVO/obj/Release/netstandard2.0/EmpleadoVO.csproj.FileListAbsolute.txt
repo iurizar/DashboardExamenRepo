@@ -1,0 +1,8 @@
+C:\Users\iuriz\source\repos\DashboardExamen\EmpleadoVO\bin\Release\netstandard2.0\EmpleadoVO.deps.json
+C:\Users\iuriz\source\repos\DashboardExamen\EmpleadoVO\bin\Release\netstandard2.0\EmpleadoVO.dll
+C:\Users\iuriz\source\repos\DashboardExamen\EmpleadoVO\bin\Release\netstandard2.0\EmpleadoVO.pdb
+C:\Users\iuriz\source\repos\DashboardExamen\EmpleadoVO\obj\Release\netstandard2.0\EmpleadoVO.AssemblyInfoInputs.cache
+C:\Users\iuriz\source\repos\DashboardExamen\EmpleadoVO\obj\Release\netstandard2.0\EmpleadoVO.AssemblyInfo.cs
+C:\Users\iuriz\source\repos\DashboardExamen\EmpleadoVO\obj\Release\netstandard2.0\EmpleadoVO.csproj.CoreCompileInputs.cache
+C:\Users\iuriz\source\repos\DashboardExamen\EmpleadoVO\obj\Release\netstandard2.0\EmpleadoVO.dll
+C:\Users\iuriz\source\repos\DashboardExamen\EmpleadoVO\obj\Release\netstandard2.0\EmpleadoVO.pdb
